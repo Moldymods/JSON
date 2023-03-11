@@ -671,16 +671,16 @@
       "addB_url":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/CM-OP.mcaddon",
       "addR_url":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/CM-OP.mcaddon",
       "view_add":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/202203102254508892_1-520x245.png",
-      "des_add":"https://moldymods.github.io/Description/CraftEveryting.html"
+      "des_add":"https://moldymods.github.io/Description/MilkingCow.html"
     },
 	{
       "id":3,
-      "name_add":"Defender Of Village Addons",
-      "add_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village.zip",
-      "addB_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20BP/",
-      "addR_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20RP/",
-      "view_add":"https://archive.org/download/defender-of-village/New%20folder/1.png",
-      "des_add":"file:///android_asset/Addons2.Html"
+      "name_add":"Vein Miner and tree capatitor",
+      "add_url":"https://archive.org/download/featured2_1-520x245/Vein%20Miner%20and%20tree%20capitator/Vein%20Miner%203.0.zip",
+      "addB_url":"https://archive.org/download/featured2_1-520x245/Vein%20Miner%20and%20tree%20capitator/Vein%20Miner%203.0.mcpack",
+      "addR_url":"https://archive.org/download/featured2_1-520x245/Vein%20Miner%20and%20tree%20capitator/Vein%20Miner%203.0.mcpack",
+      "view_add":"https://archive.org/download/featured2_1-520x245/Vein%20Miner%20and%20tree%20capitator/featured2_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/MilkingCow.html"
     },
 	{
       "id":4,
