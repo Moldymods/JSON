@@ -662,16 +662,16 @@
       "addB_url":"https://archive.org/download/png202208281211320000_1-520x245/Craft%20Everyting/CraftEvery.mcpack",
       "addR_url":"https://archive.org/download/png202208281211320000_1-520x245/Craft%20Everyting/CraftEvery.mcpack",
       "view_add":"https://archive.org/download/png202208281211320000_1-520x245/Craft%20Everyting/png202208281211320000_1-520x245.png",
-      "des_add":"https://moldymods.github.io/Description/Vehicles.html"
+      "des_add":"https://moldymods.github.io/Description/CraftEveryting.html"
     },
 	{
       "id":2,
-      "name_add":"Ultimate Bedrock Utilities Addons",
-      "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
-      "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
-      "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
-      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
-      "des_add":"file:///android_asset/Addons1.Html"
+      "name_add":"Milking cow drop OP item",
+      "add_url":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/CM-OP.zip",
+      "addB_url":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/CM-OP.mcaddon",
+      "addR_url":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/CM-OP.mcaddon",
+      "view_add":"https://archive.org/download/202203102254508892-1-520x-245/milking%20cow%20drop%20op%20item/202203102254508892_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/CraftEveryting.html"
     },
 	{
       "id":3,
