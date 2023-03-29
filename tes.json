@@ -235,6 +235,78 @@
       "addR_url":"https://archive.org/download/aerial-tramway_2/Aerial%20Tramway/Aerial%20tramway%20R/",
       "view_add":"https://archive.org/download/aerial-tramway_2/Aerial%20Tramway/aerial-tramway_2.png",
       "des_add":"https://moldymods.github.io/Description/AerialTramway.html"
+    },
+	{
+      "id":21,
+      "name_add":"Extra Vehicles Addon",
+      "add_url":"https://archive.org/download/extra-vehicles-addon/Extra%20Vehicles%20Addon/Extra%20Vehicles%20Addon.zip",
+      "addB_url":"https://archive.org/download/extra-vehicles-addon/Extra%20Vehicles%20Addon/BP/",
+      "addR_url":"https://archive.org/download/extra-vehicles-addon/Extra%20Vehicles%20Addon/RP/",
+      "view_add":"https://the-brothers.studio/wp-content/uploads/2023/03/website-cover-1024x668.webp",
+      "des_add":"https://moldymods.github.io/Description/ExtraVehiclesAddon.html"
+    },
+	{
+      "id":22,
+      "name_add":"Golem Mobs Addon",
+      "add_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/New%20folder%20%282%29.zip",
+      "addB_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/Golem%20Mobs%20BP.mcpack",
+      "addR_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/Golem%20Mobs%20RP.mcpack",
+      "view_add":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/golem-mobs_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/GolemMobsAddon.html"
+    },
+	{
+      "id":23,
+      "name_add":"Colored Elytra",
+      "add_url":"https://archive.org/download/colored-elytra/Colored%20Elytra/Colored%20Elytra.zip",
+      "addB_url":"https://archive.org/download/colored-elytra/Colored%20Elytra/colored%20elytra%20BP.mcaddon",
+      "addR_url":"https://archive.org/download/colored-elytra/Colored%20Elytra/colored%20elytra%20RP.mcaddon",
+      "view_add":"https://archive.org/download/colored-elytra/Colored%20Elytra/elytracolored_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/ColoredElytra.html"
+    },
+	{
+      "id":24,
+      "name_add":"Spartan Shields v3.0",
+      "add_url":"https://archive.org/download/spartan-shields-3/Spartan%20Shields%20v3.0/SpartanShields3.zip",
+      "addB_url":"https://archive.org/download/spartan-shields-3/Spartan%20Shields%20v3.0/SpartanShields%5BBe%5D/",
+      "addR_url":"https://archive.org/download/spartan-shields-3/Spartan%20Shields%20v3.0/SpartanShields%5BRes%5D/",
+      "view_add":"https://archive.org/download/spartan-shields-3/Spartan%20Shields%20v3.0/img20230303042756_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/SpartanShield.html"
+    },
+	{
+      "id":25,
+      "name_add":"Grim Reaper Boss v. 1.0.2",
+      "add_url":"https://archive.org/download/grim-reaper-boss/Grim%20reaper%20boss/Grim%20reaper%20boss.zip",
+      "addB_url":"https://archive.org/download/grim-reaper-boss/Grim%20reaper%20boss/GRIM%20REAPER%201.18-1.19.60%28spartan1171346%29%20BP.mcaddon",
+      "addR_url":"https://archive.org/download/grim-reaper-boss/Grim%20reaper%20boss/GRIM%20REAPER%201.18-1.19.60%28spartan1171346%29%20RP.mcaddon",
+      "view_add":"https://archive.org/download/grim-reaper-boss/Grim%20reaper%20boss/grimreaper_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/Grimreaperboss.html"
+    },
+	{
+      "id":26,
+      "name_add":"Xxmlg Furniture EXP",
+      "add_url":"https://archive.org/download/xxmlg-furniture-exp/Xxmlg%20Furniture%20EXP/Xxmlg%20Furniture%20EXP.zip",
+      "addB_url":"https://archive.org/download/xxmlg-furniture-exp/Xxmlg%20Furniture%20EXP/CcBp.mcaddon",
+      "addR_url":"https://archive.org/download/xxmlg-furniture-exp/Xxmlg%20Furniture%20EXP/CcRp.mcaddon",
+      "view_add":"https://archive.org/download/xxmlg-furniture-exp/Xxmlg%20Furniture%20EXP/20221026-textstudio_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/FurnitureEXP.html"
+    },
+	{
+      "id":27,
+      "name_add":"Iron Man Add-on",
+      "add_url":"https://archive.org/download/ironman-addon/Ironman%20addon/Ironman%20addon.zip",
+      "addB_url":"https://archive.org/download/ironman-addon/Ironman%20addon/IronMan%20BehaviorPack.mcpack",
+      "addR_url":"https://archive.org/download/ironman-addon/Ironman%20addon/IronMan%20TexturePack.mcpack",
+      "view_add":"https://archive.org/download/ironman-addon/Ironman%20addon/ironmanmcpedl_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/AIronmanaddon.html"
+    },
+	{
+      "id":28,
+      "name_add":"More Creepers",
+      "add_url":"https://archive.org/download/picsart230216135236661_1-520x245/More%20Creeper/more%20creeper.zip",
+      "addB_url":"https://archive.org/download/picsart230216135236661_1-520x245/More%20Creeper/more%20creeper%20Behavior/",
+      "addR_url":"https://archive.org/download/picsart230216135236661_1-520x245/More%20Creeper/more%20creeper%20Resources/",
+      "view_add":"https://archive.org/download/picsart230216135236661_1-520x245/More%20Creeper/picsart230216135236661_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/Morecreeper.html"
     }
   ],
   "Maps":
