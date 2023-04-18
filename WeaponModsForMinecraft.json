@@ -1,0 +1,241 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"https://play-lh.googleusercontent.com/IOv7v_6jyYq9RDkQeJyIwlj3DuDQnk3Yewo9ZoRRoVOKzYYZpkj6EG96VKzAUUaQEeg=h500",
+      "link":"https://play.google.com/store/apps/developer?id=Parmotion+apps"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"alok veteranesco",
+      "skin_url":"https://lh3.googleusercontent.com/_pFNloSoYg92QLI1Vb27xsuRAu-kb01LZaHOwa-oT9p32C8CqEqemdH0gcb_4PBxpyKuc801WRa25y6Eed0q160",
+      "view_skin":"https://lh3.googleusercontent.com/SzcT1Mrz6BRHyA4qaadqyJVbdKZMyaFMRQyLrpWAneOZOA2Q5LhuGcmjow9CnA1aX_ugCX-ciCBOQLbI9w9U"
+    },
+    {
+      "id":2,
+      "name_skin":"alok free fire",
+      "skin_url":"https://lh3.googleusercontent.com/tAYiNdeHzZz5sKBIG_Ze1fAMq6T6scpAMUVr0cWuLcLDJqEbeks3bG1QseITqoh4aevDgYkJ-1NIUAXmewhe",
+      "view_skin":"https://lh3.googleusercontent.com/h4WOuPy8u0sAWKjF8pQoGzk08VMY90YmkdxysX2IkbyAjCiweaSpGvBQZDq3lxAIPPf-TsapXfb-q_8BC7Xg"
+    },
+    {
+      "id":3,
+      "name_skin":"FREE FIRE COBRA",
+      "skin_url":"https://lh3.googleusercontent.com/yh1PuBcvJRe1yUT8d0U3FqGc-cImgQuzq5OMVR6cXtOQwd_wYUd99izsgHqhyD3iGiHSjabCQrcml-Pb8yLOTuVLwR5M-8PflWfS",
+      "view_skin":"https://lh3.googleusercontent.com/Haoj7ZfTkuoqIK0xpx6HTUqbrptpxcXhxUYjHwCapkvU6b7H0kDxLeyuxEMW4JGwQNrsn9swWrqOUManrfaMb5CmmFP7TqZ7Ivw"
+    },
+    {
+      "id":4,
+      "name_skin":"minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/SEuK7D8u0589gcuZO6f4NK0imHcqgAPSalcsGRdBK5A5BgvJCMrI8OVR2_XzTP8PrH8MlARyepWGrBts0N1y_40",
+      "view_skin":"https://lh3.googleusercontent.com/oQ2zEAy8QHol_iOHPIfOaNEOIvL35PBIJ3rAzOQzjmMHU1lqw62DSs6zLAoZVZVwZZ1y-CF3TnB34L9OA_qlkMA"
+    },
+    {
+      "id":5,
+      "name_skin":"criminal free fire",
+      "skin_url":"https://lh3.googleusercontent.com/fDH_NR5fJqt-nwthmR7CghcYExCvuP71r0nrir1VYF2rQDKL2cz6_ppSi3gwJd1wsHmBTdZhLZaHCnu4H9iBaA",
+      "view_skin":"https://lh3.googleusercontent.com/5wW-ssDt8f5dQPetBkhm8x7MW7eL_1zQBCJS1hmw7eq7py2TdQwUTl4d8osL_xGMHDFJwzoxicJ0jn-8UHX1gQ"
+    },
+    {
+      "id":6,
+      "name_skin":"free fire",
+      "skin_url":"https://lh3.googleusercontent.com/3MYYgKLHcGW-vkUrNhw6G5vlko8yBHccewsZelC1O7nSJ_A6Wi_Ii83SG1jJ4Hpa9mXazB01UbDK1m2-RV8Dag",
+      "view_skin":"https://lh3.googleusercontent.com/DHM6nQSOt6jeJSiXC6wtc4iJi2p0K6cYE0yQSbEry-MO1-VGvbXkDU92tgIjb4FqfQPwBOiYH-3PKgjL6DIwVOM_RKWBZguIqlM"
+    },
+    {
+      "id":7,
+      "name_skin":"sakura free fire",
+      "skin_url":"https://lh3.googleusercontent.com/tOBZtTPlisKG0tYcas93TmjpKeJgpDuMv5jYZudDMylZNP01Fq31Wx70d7uRbYS4U4cY_TCeFRu6STd7hhDs",
+      "view_skin":"https://lh3.googleusercontent.com/q44STy9M5ckOTHAn3awjo6zEx1tEENFRkHMyl3bhe38BDF_zYTZFpjryCkQGsrwR4s8Tf1YocEKXasN5uKkRXg"
+    },
+    {
+      "id":8,
+      "name_skin":"FREE FIRE",
+      "skin_url":"https://lh3.googleusercontent.com/ypgM7eLo6ZLt6jVfadg-toO8OS9cTwZUX7e-78eXYUrj_WPjCfnLhtoHmCuXG2Lzf3Zo_xnX6AeobO_a4oF-hl0",
+      "view_skin":"https://lh3.googleusercontent.com/HF74Hf-e4nOGdvOROKCS8GwVI_8BhsOru3mkVJs5Hh2DK9Al2gQqQmU5Yt-GyOHQq4ZGhJfhxgeYowDuyzV7hA"
+    },
+    {
+      "id":9,
+      "name_skin":"gta 3",
+      "skin_url":"https://lh3.googleusercontent.com/S_pO5pHaOJtoyfRxpC4Z13f-24_SqyVyFvt58NHvTAmF-xOEln_SZwvmFHVYkd4maviaH1qsUiYRAjc-M5fO-Q",
+      "view_skin":"https://lh3.googleusercontent.com/cwDRflykWW3_BguThkU_sLCCEJKreUgcaieJ0CgiNQliw4tneWIBeh5DO_wckV5OZu21MKUTUvO-CpcYXNC7U6M"
+    },
+    {
+      "id":10,
+      "name_skin":"GTA",
+      "skin_url":"https://lh3.googleusercontent.com/9P4gylwRMtT9Amatlh2wSnH3K6UwSyyIZvcG4D2Rb9KcquGLvplcKp0EXMgm7H9f_f1mrNX4HAQ4RdKK7IfAYg",
+      "view_skin":"https://lh3.googleusercontent.com/RbqgBNf7ah1JqzSwdisx9zv8RgRQHCDP-53kgidt-t4tfBtFvFK9ToaiK-efrLQUrUcKSRNJFyAIcgK-GecnOsfctqDdeg9IAA8"
+    },
+    {
+      "id":11,
+      "name_skin":"gta",
+      "skin_url":"https://lh3.googleusercontent.com/VzfZrVFYS8Ina3FVswVRBX4nUbZP7YCMigFaN551aUPLMM69EYXhWEPwcOyW-wbeWnoNpGKXG56JbmoPfFs",
+      "view_skin":"https://lh3.googleusercontent.com/F93DJYV_8SCduSjUHgIQ4v9gXop6NgvAL6dqsfclzPI3IPKof9jZdxTKFSYhNNrClyssiaeWtYqvFQDVoiB4Iw"
+    },
+    {
+      "id":12,
+      "name_skin":"GTA",
+      "skin_url":"https://lh3.googleusercontent.com/0QpOJBuLQNAZDAGXNZsE2tXmDtYycAiacccM5ZFReN1u6dDzdkURQm-QLxdugMN3ZHmgO3pK-vXd7wThSE5f",
+      "view_skin":"https://lh3.googleusercontent.com/a00wagGodiXUlIH1qlHLQzdlad6Sp3ezW8cpKeHA1Q83d1zZ54VPab6piUdyEmc64nJPoUJ1VtzOF9ohawerlA"
+    },
+    {
+      "id":13,
+      "name_skin":"gta 5",
+      "skin_url":"https://lh3.googleusercontent.com/Vz1oJtHSXboJLJk9BgjSabE2Kcn9wExZsutDAhV5zFjGyaQ4sTcD-xqjwu4SzikGZ-FzKiv3ZdNub5284eVK4w",
+      "view_skin":"https://lh3.googleusercontent.com/cILNKQnPWTLrWDuJOPvTBQYkBUR1ytojaEEXrU_gMYP-t1NGCA1XzR0LfDyOILYvhOX-tMKQURNG6YR6K4lU5Q"
+    },
+    {
+      "id":14,
+      "name_skin":"GTA IV",
+      "skin_url":"https://lh3.googleusercontent.com/huZXbLiYkN26aZuGy05ik8-qJtMbiLJEgw1ZYw_MMVkRMMqtv8ItkQMnKX6gmsQqvZjmDVexYFg0YgZoYyOPtg",
+      "view_skin":"https://lh3.googleusercontent.com/50TTIaJ-8Xnf0NWprjfFjZJ-udeWO5goSNH7vklSw0heKk3bv2CsmXU7giKqp-lwkrjGHADCPc0ToqxpARQM"
+    },
+    {
+      "id":15,
+      "name_skin":"gta vice city",
+      "skin_url":"https://lh3.googleusercontent.com/DLTTw9RAhESZae1Fbk8K5BY3jamTb8qzRMat6_oEgIPbS0566L_FSg7DdZjZc2vcTeOCq_zXxoaELbJR4Mhsyqg",
+      "view_skin":"https://lh3.googleusercontent.com/zhiKGEQdfJO3SaQsbLgjvM9Bma7pdtCw1HvLvIQFelTREKwSvWA1VNlaG6hrObF1sexYSua_P7PCQzqAMn_vlw"
+    },
+    {
+      "id":16,
+      "name_skin":"gta lifestyle",
+      "skin_url":"https://lh3.googleusercontent.com/PwtnMr5ZlmPwAFuvrMgZk791dkxqa_kyQaMnBhCQIFiSP4bx7FPRMzVk1hHW2nE0g3YaaMYD-mViQU8MI_a1xy-77WNkbifHf-o",
+      "view_skin":"https://lh3.googleusercontent.com/7FJXJajI0EB5Tq6tvvKivd96CKQidI_nSolCtJvY2zS4n0z8KdtQCH2h6xhZ9o0UllUOUVo22unOrRymvpxetSrnHtwE_gQ14bE"
+    },
+    {
+      "id":17,
+      "name_skin":"gta",
+      "skin_url":"https://lh3.googleusercontent.com/4mu3hFqgbnsiQjoF0SRjqmlqr6HihZt-pVxxmYFHDO-aHpzfbthy26YYmCBeyWmWHyoStVlQOEEJe_-KImOn2g",
+      "view_skin":"https://lh3.googleusercontent.com/mtdK2k5DQR6WAajKNmVFhgc-x-AaldBT0mIYdg276W0nX0grgH74VzyN7GTnYOVvHXinF32JGuEqG9c3tm-zAsU"
+    },
+    {
+      "id":18,
+      "name_skin":"gta",
+      "skin_url":"https://lh3.googleusercontent.com/gDnXplg9c-Ra3SoEbhhxLQZG8FAwrTsrLCzOrKKhGmS2pIpI2xTD9RyXaREhSdfRutfV2GAMdykIWmKWpiyfDfnqxmZshy-3lC0",
+      "view_skin":"https://lh3.googleusercontent.com/9fIgF4rvd1XkZQT7lIGdlt5_o3Z-gMGJvwdxNcXzdjGg2rt36pDWjS5dli7u107gj9pCbUBotjDAAt1oqjIERB7yC7uwB8Eb0Q"
+    },
+    {
+      "id":19,
+      "name_skin":"gta san andreas",
+      "skin_url":"https://lh3.googleusercontent.com/MPDvpApupFOVZrQjltPb2R6VHLFVJRnZTvI5T6aVNS_tUD7_MFGRYsT9G4yr23Ldio5fuvzJoxTD6c5O42Lgcg5coWJGZ1L4wQ",
+      "view_skin":"https://lh3.googleusercontent.com/WfzAy3K5_UpwsWRtyAcs2MTaEJ5fcgAvGVG9DxDYNnOKrMDf8u-cSboNFGtPAbepO8hsCz7wMgPcfAZklIrYmuMzss7QrBODmQ"
+    },
+    {
+      "id":20,
+      "name_skin":"gta v",
+      "skin_url":"https://lh3.googleusercontent.com/gZ8C3L7YJnp_sAoS4d1wmwnvmqhhqE62wBemZzcc62chtRFiMRNA4udjakD7IWVo-J61a4a1bGGRb71RmU-meduogqjaaj60QY7c",
+      "view_skin":"https://lh3.googleusercontent.com/5Y7TLAP0bohA0FlUMh10FpaIDlGO3TD46FSytTS1mA0WCm2cRAnr-Wiq-mkMIbihqpGVHSkbQP_psl1KmX7aKXHdw-hinJbrOQ"
+    },
+    {
+      "id":21,
+      "name_skin":"Rider GTA",
+      "skin_url":"https://lh3.googleusercontent.com/d-7lDfiKxsJ2oDKyXLhbXSvqBs_bQ5jdAhqlmpk2OTEzuAVERSoAa_LV-OjRPBfTg2Xgzrd52lV49hUXovtbGg",
+      "view_skin":"https://lh3.googleusercontent.com/MKdiRzl7uH6xE2z-x4ubVYMFiG4VSopCLJIiPKoegpLWYEpezRMfF0wXlMMe9KGaqzTJsgZ15DBrRX7KRjfp"
+    },
+    {
+      "id":22,
+      "name_skin":"GTA III",
+      "skin_url":"https://lh3.googleusercontent.com/BHJJ1HfJiZuMUNi3I98hTStZdWqF6GwMaOLTli80cMYzK85C3A93Fq_ZsA1JtwpctaLZlcTy5L_SUAstfvRi",
+      "view_skin":"https://lh3.googleusercontent.com/ableHQaVWaaI5VRHwEZrDYtBe_Td8PDVvt2VK-ioZmFqAFLKrO_IcBsov9MXa3ispV4EhrLMktUrj8b8MpLd0g"
+    },
+    {
+      "id":23,
+      "name_skin":"GTA San Andreas",
+      "skin_url":"https://lh3.googleusercontent.com/hK8j36hSL1zzIJaJ2R8EArNpyOD4TebS4ltMtJf4wt4oVsBrVTddtxNqh6fHyt_fXT-qt3tPz9mbSleHxruFSw",
+      "view_skin":"https://lh3.googleusercontent.com/Tlin0hQTS6GvqHa9m5-0NNLAIcX_fMHmPkzrsXQIdW0xHs2Wa1x5dHDYQtg8M88XYSkqvIaeUaWDpN4k2Veg79A"
+    },
+    {
+      "id":24,
+      "name_skin":"GTA",
+      "skin_url":"https://lh3.googleusercontent.com/uz_RlM6QR43pX4Xw8l2mMZcwHX615F6OZFj6CYfS3C0fPpTQGVuvmJYfkdqRZ55u26PXa_FhPgUJYstGAH37jATaYvCZtQ5pig",
+      "view_skin":"https://lh3.googleusercontent.com/0BsWzIaKYi_RJIDq_XnXu0eLzToQqbhXDZlGI6DTRM3vHZqJmQcGukO2sEe3zlCNFzrtMSep1yos89uptG6oN6tCppPGSvHgewQ"
+    },
+    {
+      "id":25,
+      "name_skin":"GTA",
+      "skin_url":"https://lh3.googleusercontent.com/Y9srTJtDvIp_fCTJLFV39EfEgh6mxK29uoFtIU7MA6ML-WY6kpAhHGdnyuODEJmWzXBplHbMr6pjFHibJZFpFlGKbq1pFwVId6s",
+      "view_skin":"https://lh3.googleusercontent.com/HQMDhYb_ZGDY7NooskpzbXn2kRN7KKhVCSW7WuWx6ZNtw3s4rKPgiJ7bE8A673enGNlht8UKbr7qUCze9F4R0Y5sKH_ynjyAhA"
+    }
+  ],
+  "Addons":
+  [
+	{
+      "id":1,
+      "name_add":"AmGamer766 ModPack",
+      "add_url":"https://archive.org/download/am-gamer-766-mod-pack_202303/AmGamer766%20ModPack/AmGamer766%20ModPack.zip",
+      "addB_url":"https://archive.org/download/am-gamer-766-mod-pack_202303/AmGamer766%20ModPack/AmGamer766%20ModPack%20BEH/",
+      "addR_url":"https://archive.org/download/am-gamer-766-mod-pack_202303/AmGamer766%20ModPack/AmGamer766%20ModPack%20RES/",
+      "view_add":"https://archive.org/download/am-gamer-766-mod-pack_202303/AmGamer766%20ModPack/13c039706f8e492ba8f98e5be7e646b8_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/AmGamer766.html"
+    },
+	{
+      "id":2,
+      "name_add":"PUBG Weapon",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_behavior_pack/",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_resource_pack/",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/weapon/2.png",
+      "des_add":"https://moldymods.github.io/Description/PUBGweapon.html"
+    },
+	{
+      "id":3,
+      "name_add":"Swords Weapons Mod",
+      "add_url":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/37swords&weapons.zip",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/37swords&weapons-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/37swords&weapons-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/ic.png",
+      "des_add":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/ic.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Brazil Snake Island Map",
+      "map_url":"https://download854.mediafire.com/911573s6zm4gn3lIimKLqVGq29MZ7d_kMzNRsrL2xlUXrPQ0uDbpckUPL6Rmzw85ASbofElbzC4lJKQvhqzeqFMl23ei/6hvqlubgxfjjmjv/Snake+Island.mcworld",
+      "view_map":"https://www.mcpeml.com/post/2023/01/Minecraft-Snake-Island-Map.jpg",
+      "des_map":"https://moldymods.github.io/Description/MapSnakeIsland.html"
+    },
+	{
+      "id":2,
+      "name_map":"Dream Maps",
+      "map_url":"https://archive.org/download/asepudindev/2dream.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/2dream.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/ic.html"
+    }
+  ]
+}
