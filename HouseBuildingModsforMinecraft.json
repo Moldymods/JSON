@@ -1,0 +1,223 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"https://play-lh.googleusercontent.com/IOv7v_6jyYq9RDkQeJyIwlj3DuDQnk3Yewo9ZoRRoVOKzYYZpkj6EG96VKzAUUaQEeg=h500",
+      "link":"https://play.google.com/store/apps/developer?id=Parmotion+apps"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Cool Rainbow",
+      "skin_url":"https://lh3.googleusercontent.com/gUhu4xEWR_PpCcsvR8vxWf1Anx2He9MtrTbye9gt_QmJeKRPCu8X70jqDHlcLpCpkAn4fNCxVC1XVepr9mtfoTg",
+      "view_skin":"https://lh3.googleusercontent.com/qeNrTDwNKqQRUCZXGvn3E8MjaU9dGKV0x1AAbSWZEraKQlQwe6K2XpHlIt0UKqIxQP3kTY4zklIBV2i7DYUzig"
+    },
+    {
+      "id":2,
+      "name_skin":"cool hd girl",
+      "skin_url":"https://lh3.googleusercontent.com/F_PfLnhS4N8HkI1qt07Ghq2FQBAvn2kgcLtfnSHZgOS0aYo0vRPg2swUJwd-dC5fbtNRUcXseLv5hE8UEERDYQ",
+      "view_skin":"https://lh3.googleusercontent.com/nihxBvMxeY32rvqeMMfT9WojCbvpV3_9jOayTf1aa9VvBnMyZlQA3hthY-nVWLPaRF6RQtrxbtphog3KPcF3kw"
+    },
+    {
+      "id":3,
+      "name_skin":"Cool Black And Red ",
+      "skin_url":"https://lh3.googleusercontent.com/hWCMe4PuidxOOJWO2Vmah7671_e2zfPp5F11COoQfn63b0-ivybSoZSdN2nANiRFOpQZHCWa0r7mXysKAC_TyQ",
+      "view_skin":"https://lh3.googleusercontent.com/GC9yfeiKDz9NqP2ylvUyRbElOcNPMMewJ4706E9Y3flyaqt4Yk8_AcvMA-D5Jo_wE8q_JPaX-W-NJ3ASl3EpEQ"
+    },
+    {
+      "id":4,
+      "name_skin":"Cool Boy",
+      "skin_url":"https://lh3.googleusercontent.com/klE4B6-ZysCYDq4SK-Ed1el-Fv3vZKzpzk3EdWR5fKdzX5KY8PRCFLbBdkp8YKPN5Gy3qzwW_Ec1fNFWBJ7clw",
+      "view_skin":"https://lh3.googleusercontent.com/ba0YRECOrsuAOsv_x9vyLZ28lfpkZ8JpsHYNWYoc_Ci4JqXOHsIxpay8IpwhNgCGf9lPr8j4YIVExANbRAiRmA"
+    },
+    {
+      "id":5,
+      "name_skin":"COOL BOY",
+      "skin_url":"https://lh3.googleusercontent.com/COOVb8v5G_DBFEfbfCVwbJXqXwNZIsClT_HxniPoQBTLBWIwLivPh0kXv-vUtm-hCeX2WOf6EOg6XXObKsKrwA",
+      "view_skin":"https://lh3.googleusercontent.com/pGluPWcbBEV260kt9dBBilCGi-iFRbngWiu339-11HWByP5BqLXtl0EJnTeEx0jGjZLp7JVeD0sAc5TwcWwwBQ"
+    },
+    {
+      "id":6,
+      "name_skin":"blue cool",
+      "skin_url":"https://lh3.googleusercontent.com/wIW6ghczf87iph6hGhiRCC9-DssZIhjZ_r3vWdVU2OJcUIXSeKRNhyzy81PMt00Cn-JkQDXWpi3UgAgHiATu",
+      "view_skin":"https://lh3.googleusercontent.com/Lm3IIPpDz6EwWmU0EbbXDvfqf0tdAIAlR8gv7QsQoI7928LwGTgb29vDhiIMVv2aLE1ktn5tZzuOiJTNrxskPA8"
+    },
+    {
+      "id":7,
+      "name_skin":"Cool blue and orange ",
+      "skin_url":"https://lh3.googleusercontent.com/WbtTfOhl8EmnEeYOmY8xwYLMJISOnOkFvknfnYYh6cy9bliVKLyfFRKjijevSZS2cj9vgHZgQ4cX_TwyVg3Z",
+      "view_skin":"https://lh3.googleusercontent.com/iyxPVEusxODp8cP02G96Dz1g_aXQimDFSf7wxPfNPZgi2NvU2AUKDBGlrWNgmTc_A3v_8YvP3CzKn9YMtcWv"
+    },
+    {
+      "id":8,
+      "name_skin":"Cool boy supreme",
+      "skin_url":"https://lh3.googleusercontent.com/0lwjK5J-dk4R6wwtp2b36smXlc9ruGAiv56_cPvWL8jzX3MhXrvHDgiiZsUi3PlDol6A_efdxspqyZPyDbd9RA",
+      "view_skin":"https://lh3.googleusercontent.com/PjkQ-_ORHqiq-h2AzORqHYEghVEaXyPI62IUmUPwUB5_EWPOpzBzyJlXVkIXL4KaJcOQWWoByxmJe3C7XB1Dxw"
+    },
+    {
+      "id":9,
+      "name_skin":"cool boy",
+      "skin_url":"https://lh3.googleusercontent.com/OvJwIZfLe_oldX0VMy5dLtRJiqW9KvFgqGhfvlZYA0qavtdXrwzd3MXPx3G562rlUnpenqgKIsa408ifU8hK",
+      "view_skin":"https://lh3.googleusercontent.com/fZS5iRvgfFp6uqY0vs0KKYAe-z33cITb3_7ryPRn4HnWhcDirhTly2OtbNw9T5XfVxnhmmWsn9pW0XcY4vUdrT8"
+    },
+    {
+      "id":10,
+      "name_skin":"Cool Blue Boy",
+      "skin_url":"https://lh3.googleusercontent.com/HJXn8uYET5Cuv5VcLpXe-WPmRh3OhzvaHHvFb9aIZq3zXQSo4Wkv08tqZkLZko26wpyVUIFTHA3wOmwFXrpD",
+      "view_skin":"https://lh3.googleusercontent.com/M-vADTMEYuN6wE8lWUCH5-p5v1-V7yqPS6_m_f_dDocUMtaECtaFR0lRiM2nw4Y6kRvpokrnMQxIwf8alNAQsQ"
+    },
+    {
+      "id":11,
+      "name_skin":"COOL 3D",
+      "skin_url":"https://lh3.googleusercontent.com/3VDx6bjKwbw0TOO0xSAmTksgL6XAK7iXQbnn2d4QzV6Xylebs3TljnDIcdMD6gPEdmcw3ClUL5Q0ewwTNJ0_",
+      "view_skin":"https://lh3.googleusercontent.com/Vr7QfBvDltTf8lAQrpRciuLuZz8qqxsGNWjkcgGzNIqPiV4g7uIQRpFTuGWC8_wt8OPZF6v_t8odaAEHvI3ezQ"
+    },
+    {
+      "id":12,
+      "name_skin":"cool boy",
+      "skin_url":"https://lh3.googleusercontent.com/7MoyiZbG6-dKhfGXXbdGmpbGKs-P2pEEt48KSnWjXCeEMPnuKoNPHKpbv74AMlROZqp0FNc5UapzBpgtJJXS",
+      "view_skin":"https://lh3.googleusercontent.com/y94kXBlrlAffKKWy3GjrZrv1YD78ILK499iifKyhIiJ4_Ex4-pqX6r-8K6hjJR6n6jfzzV_ZIL4yfGJOu1ob"
+    },
+    {
+      "id":13,
+      "name_skin":"boy very good",
+      "skin_url":"https://lh3.googleusercontent.com/CRaANVjGMe3dem9WMBpyIWxndCPBGvPts8OxgVflWXLobTTKdnoUaZpucbM1FMNsrgoie4T3t1jBDswWqfg6u5IZvWAtpsQ37w",
+      "view_skin":"https://lh3.googleusercontent.com/cCyJ4sjnEfv7WuFlBGYybNaEorKkg4aWaMXYPxr7fBoj3q9Db_OXkemW4BJmv-ipSiKsOZeFkHj8Fyi9qYeJfBNvKW1WwmCaN6k"
+    },
+    {
+      "id":14,
+      "name_skin":"cool creeper boy",
+      "skin_url":"https://lh6.ggpht.com/TucafLB1FRy2jeXG6GMj7-h1sgBaoXPjdv2scDo1dyCMwvp8CwwJX6VHeW-hx649ptX_RWoNvRJ3CgMZT1dy",
+      "view_skin":"https://lh3.googleusercontent.com/MnORlQBu_JUuq2MDOUoYnbEPE0mMQRIWamZJB7YQ_D1CuOAnKGbz61WT_DEYCCoWWxvFIrqZBePXzgO-A5W5Iw"
+    },
+    {
+      "id":15,
+      "name_skin":"Cool Anime boy",
+      "skin_url":"https://lh3.googleusercontent.com/NEi3U71Oiw34CFFEvftj-BqIgivyoRe_xiwv27Mapz54IXTeW4F9EXyRLXmNQ4L1EUXdUV-WELwPlIzlJPspiQ",
+      "view_skin":"https://lh3.googleusercontent.com/mfgMMYPOux0NgFOBJTbOmggm3vXr5bJJI1ts1w8Fuo4g-4FO5nLlvkl56YyneT0GATy6euTVUQL9paHxIHJa0w"
+    },
+    {
+      "id":16,
+      "name_skin":"morado cool",
+      "skin_url":"https://lh3.googleusercontent.com/owbMArKN6XWecWYdOcM7i6gHUaUhvNUadCg0VVoV2i0Aw6WmLP5m0YGixgrWGf-5xo_A3KoVmL9EZ7sSmyrRFg",
+      "view_skin":"https://lh3.googleusercontent.com/xKOJUP-i7jz0KWrII-_pyFrbOw6q4Ro5uQwymFhfI29wjzafGVGUz-yGS35SuU1EY3LcJR5m5YJyLWULP6ed"
+    },
+    {
+      "id":17,
+      "name_skin":"cool boy",
+      "skin_url":"https://lh3.googleusercontent.com/xzCy3oOo8DojKx5uTfBlrtRK3s6ZAqcTpNGM41KG3OFAI35pL2Bti6OFBteMTtpU1qweI54iniunUrAU-uOM7g",
+      "view_skin":"https://lh3.googleusercontent.com/2-g3V1TNiuH6Sdk6bSYrCmzGa0K2qAk2hE-ZRYGC_spkt4NsOYTbK8eW89J6t6a-KXb84l9fxszcUqEeTkG1Rbk"
+    },
+    {
+      "id":18,
+      "name_skin":"cool girl",
+      "skin_url":"https://lh3.googleusercontent.com/--7fJkBjvvIffXCebp2PMNcEPRpYeQ2nO8PYfrelOgFI-PfxNvRpL7DC-BlZlK6p6IrKgFlZS4KlzefOGzg_",
+      "view_skin":"https://lh3.googleusercontent.com/JwHw-H8-IDEolPm9Ra6XyqA8g4uHJ3v--Gx7TE1Rall31qOpSz06KgUzQurMq5bgr7JmgJ9tBin-0yQ8oe1etw"
+    },
+    {
+      "id":19,
+      "name_skin":"cool neon girl",
+      "skin_url":"https://lh3.googleusercontent.com/C7ChueJ1wZi0-YZOs0V4C1YN1Ict-ceRD5hOKpvS15FsvoWBsaOlzETMiWXmzmCZJV9q6yl2Bc-2g_zvKcC5vG0",
+      "view_skin":"https://lh3.googleusercontent.com/r4BUpD2bgehHd2PvCFWNV-0rDmtiMRVNZ4mu6Uq0Xr_qMQ5E61qGIqT7HdeCX4R3zblLRLACL62qjKD2jTOzww"
+    },
+    {
+      "id":20,
+      "name_skin":"Cool Boy",
+      "skin_url":"https://lh3.googleusercontent.com/38huvwyycvKD4naP5TohCLDgM7vbZF_A65GzAntE3358RFqIYcDUpBr-25lKS3CzMEyNU0lHzGByFXwySL88hw",
+      "view_skin":"https://lh3.googleusercontent.com/XNxod0oh_eqpuC43rApYUABFZbyzWVyyXwHhdYA1tgOmhHpKCgaavDgkYiCuASC-SUU1ywoy9dYCkitte3AHPQ"
+    },
+    {
+      "id":21,
+      "name_skin":"yellow cool boy",
+      "skin_url":"https://lh3.googleusercontent.com/B5Z8Sh0UIGJBcjcfBuxZgGl9iq0txDFqvAmO7YBW2QG4k1DWsVYF57g_P8YqMB_A7QQh5m1Q0nvwQs3uux3Pdg",
+      "view_skin":"https://lh3.googleusercontent.com/S4giNYD7LIttUkLuOBr0rqyophJXnZbhLc7772KOLByfweUf1nOn1r9YchT1ljdeXXrlXSUTFemJhsh263H7PQ"
+    },
+    {
+      "id":22,
+      "name_skin":"Cool",
+      "skin_url":"https://lh3.googleusercontent.com/mA-bXqBu2x4WkyJDh3beZ6QFgHDqenEMsAjgNzD-iOMVBFWFXa3L4ClaY7ZpsXrLj0aAnXndmp7UbU97nLgopAk",
+      "view_skin":"https://lh3.googleusercontent.com/txQ5wEnx1CVykssG17CmA5wdelFOYJKSbTUzZAY_7_83a6VDmwlR5tsV7Exn3ehFCmFcMj4olU8FkycqqA5avQ"
+    }
+  ],
+  "Addons":
+  [
+	{
+      "id":1,
+      "name_add":"Builder Village",
+      "add_url":"https://archive.org/download/builder_villager/Builder%20villager/builder_villager.zip",
+      "addB_url":"https://archive.org/download/builder_villager/Builder%20villager/builder_villager_v2_B.mcpack",
+      "addR_url":"https://archive.org/download/builder_villager/Builder%20villager/builder_villager_v2_R.mcpack",
+      "view_add":"https://archive.org/download/builder_villager/Builder%20villager/11.png",
+      "des_add":"https://moldymods.github.io/Description/BuilderVillage.html"
+    },
+	{
+      "id":2,
+      "name_add":"Instant Builder",
+      "add_url":"https://archive.org/download/quickbuilds.v3/instant%20build/quickbuilds.v3.zip",
+      "addB_url":"https://archive.org/download/quickbuilds.v3/instant%20build/behavior.mcpack",
+      "addR_url":"https://archive.org/download/quickbuilds.v3/instant%20build/resource.mcpack",
+      "view_add":"https://archive.org/download/quickbuilds.v3/instant%20build/1.png",
+      "des_add":"https://moldymods.github.io/Description/InstantBuilds.html"
+    },
+	{
+      "id":3,
+      "name_add":"Instant bridge",
+      "add_url":"https://archive.org/download/InstantBridge_20230311/Instant%20bridge/Instant%20bridge.zip",
+      "addB_url":"https://archive.org/download/InstantBridge_20230311/Instant%20bridge/instant%20bridge%20%5BB%5D/",
+      "addR_url":"https://archive.org/download/InstantBridge_20230311/Instant%20bridge/instant%20bridge%20%5BR%5D/",
+      "view_add":"https://archive.org/download/InstantBridge_20230311/Instant%20bridge/22.png",
+      "des_add":"https://moldymods.github.io/Description/InstantBridge.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Minecraft Small Ice Island Map",
+      "map_url":"https://download942.mediafire.com/32lc485w1nug2Nepi_mjvdRrO5n_fiXUlj5Ro47A4GdYy2RUGpIgcz6PegY4yLb2d4WOetg1my30TXjKOboyp_JjHLlUEg/0w4k4oeg6t1hnd6/Ice+Island.mcworld",
+      "view_map":"https://api.mcpedl.com/storage/submissions/95784/100/20221215232815_1-520x245.png",
+      "des_map":"https://moldymods.github.io/Description/MapIceIsland.html"
+    },
+    {
+      "id":2,
+      "name_map":"Custom Village",
+      "map_url":"https://download2294.mediafire.com/tcj42peuigigay4WRHIgeMn0KvE0GDqvMFTxbBAKoJ7FC3YBUCgzcqstU-YbJfb_HE4-pi7spsJLyGD9vBTfyESAv9SHTw/vovqfe8y0p6zrlu/CustomVillage.mcworld",
+      "view_map":"https://api.mcpedl.com/storage/submissions/98974/100/1678180093601_1-520x245.png",
+      "des_map":"https://moldymods.github.io/Description/MapCustomVillage.html"
+    }
+  ]
+}
