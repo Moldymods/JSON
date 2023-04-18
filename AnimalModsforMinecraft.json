@@ -1,0 +1,180 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"https://play-lh.googleusercontent.com/IOv7v_6jyYq9RDkQeJyIwlj3DuDQnk3Yewo9ZoRRoVOKzYYZpkj6EG96VKzAUUaQEeg=h500",
+      "link":"https://play.google.com/store/apps/developer?id=Parmotion+apps"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Marge Simpson",
+      "skin_url":"https://lh3.googleusercontent.com/IbPR11MXTMQo9UTRLHBBnOe7IZXBr41lWpY-XBCrFgkvD6sL7FrukiOoAPspWpGVrrpO2raCT0FzM0VrgVsfiQ",
+      "view_skin":"https://lh3.googleusercontent.com/zsLe_Q-VnQsVV5ignOU7rmoVSmjwCwGwteAMYzAPCA4dDP1CXTlK4KnJLNNzNgoyBA-9Q3HzrpQGasPJWSmO9Q"
+    },
+    {
+      "id":2,
+      "name_skin":"Bart Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/0KjbuAt1TrXaUj3Lf4UqalhRoyc8oARHdRQ2wpIpjoRgZvL-w7kzggWcuivCm1sKp1xvzEEu4Ecu4Re9gjjlQw",
+      "view_skin":"https://lh3.googleusercontent.com/lgWqOD9GQ1aM1f0Lda5ISRgmYm6b97XgalTUcHYTeI3uuP5tucogYaMb3Mv_7T-lfweyG3vSX7ITodfnJlXvefClRvRBiWD9Yw"
+    },
+    {
+      "id":3,
+      "name_skin":"Lisa Simpson",
+      "skin_url":"https://lh3.googleusercontent.com/EJt20P8NKmBhE_nUdNbN9dkL5ef2YCSRrM8QAKlI-DVcgllx_wnH69AgSDWY2cgTPKe8OdaKlXyCGVNlRn-V",
+      "view_skin":"https://lh3.googleusercontent.com/h6i_g4Xwhxp13i4XGDsduoDNW0qghbEjWZjUBip8j_kDJGscGCE_6RtVhMOYrndZYnCCv0IS-4RXa_QL88ULHA"
+    },
+    {
+      "id":4,
+      "name_skin":"Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/Y-3zPKTTVGQrfO1xx632sve8t0wysiwihNdSTV9zCE_Sxk8kWLUceunRp6oH-ZCesocezGHthDyJKkISJ3v9zKbkN5P7R_NVAMXN",
+      "view_skin":"https://lh3.googleusercontent.com/cctA_qrK2bOzw3ratz044PDnztDCXpCj2GCJaV7In_v3NBkfGNJVhfy6jFTVy26GvOyOuXfUDSqrOoGRV_Iht933M3TzVuKUc2k"
+    },
+    {
+      "id":5,
+      "name_skin":"Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/sPnCRBZx5trFS_uy1LjFRAdrVUH28Lw2UZkVK0EzGtbkcu7F6ONgrp1086jjZWX_o7n5kIZ7gbHgtLSiXxpOwu0Ip1mUD_6nOHU",
+      "view_skin":"https://lh3.googleusercontent.com/r1GGBNdFlVkWxHkw762RjK-q5x68gY0fzW8Q21EKFSBvZs33fPwD8dN4AO7mUHl99vTCUm6pdM-4NcSHzSB-IRmpVZV4rp7Tgw"
+    },
+    {
+      "id":6,
+      "name_skin":"Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/y8V2psdWjE1-ujpOfjKiVTTXx8T35ojoVMC96g39OcyyHGWrOeZ6BIxnf6XDAk16ON8-KD7YQq_KVJEvSxcqDuDFD06EbVXkNw",
+      "view_skin":"https://lh3.googleusercontent.com/KVJ7SaYDuCvhscVSxRBiuz6jxw8OO7whggeyqvN6pScPWAg35t9uNGLqIr6BBlFXuwo-QWM5BNPzPZmaduIjrFprt6sLyu0M9GU"
+    },
+    {
+      "id":7,
+      "name_skin":"simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/qtf4zPNZOCMqdC2Yh0fqMg55gF5Sr9ExO8NYQsn8oUiloIfJAbwreoi1_Dql9MIu3QFn_GaERtmz730MULniIBjeLBDn8DsL93JF",
+      "view_skin":"https://lh3.googleusercontent.com/BYWHMaU7FK8D0VrYeKhMehawAh3hWB8FjoNalOKSAshKLv7IutAduvKHP17wBp038lkkCUrBq0Uvx8Avq0XRVSWnqzgnSZtfxSs"
+    },
+    {
+      "id":8,
+      "name_skin":"Simpsons HG",
+      "skin_url":"https://lh3.googleusercontent.com/ABuZPE4VAsIAKCO0ANI4rLcZCVO2IKQQHZ2iSR6Rh4sqCeTVldqu8Dk81j6b4QTQ8nlF8XeNDop3WW2B5m5yNkPqd2bkIlTwGvg",
+      "view_skin":"https://lh3.googleusercontent.com/uXo7DfxM7cvHn7xF3mKKH2EgXJi0Dc2usEeNVS3bHFDTVdXeGZIwSNBCiOk3OQnCj2sfTtzbkiRWtRLVU-X16LmD_UX-zPXXyg"
+    },
+    {
+      "id":9,
+      "name_skin":"Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/__F0tbXZpLRVb_PYj9f0Sea_KuhZEsUVTLtxA6oVABV2YVj0YG6SN1GvCGK6ccuazyWDWtAViSSfFO_5DGsoKO5H_eRltIDcOsQ",
+      "view_skin":"https://lh3.googleusercontent.com/Nqu-_HAUEzEr7_sDbAJHO_s-IcWpa-nPbco-ul0ucVvJR_5uYzVbMHLIdjr7Pc8fpEn2hM1kiVhSASQtqxLS_ZnyiKcCk8XWMQ"
+    },
+    {
+      "id":10,
+      "name_skin":"simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/CIU41g2JCeemZ4zriTnojuFomLJWi1wl2hGm25fKmD-qd7Iwkb9shQQz2Wo-WArU7h35gb1FmyTzuBQ0-L7N1xvSjIQ9dr7Pdg",
+      "view_skin":"https://lh3.googleusercontent.com/Qn2qjgfhMp_LdxKx0PrgfqKLNmKjECeJWJCyAyRVolCg64Gmq2zjQMo9tGUEzoMwVf0sXBz6aM8g8Uuk-msMXK4TpCgpDh1xtqU"
+    },
+    {
+      "id":11,
+      "name_skin":"simpsons homer",
+      "skin_url":"https://lh3.googleusercontent.com/rD23pCEukWk3tw3ag561C-tCQR35olgHIbxFTka6ddLZtcuT4j1Q4w5wMp0wk9cQVkOR9U_mwtPhNMqhEynrBzLJvdsuuqj8BQ",
+      "view_skin":"https://lh3.googleusercontent.com/M1bXTKyXkiqWGgatTg4uGKdGNMRKn-OFcDQZX_Boh6YPCVLyhaCHDHxxAPjRDXer15jAgDcyzmO5jJvMngZTrKVxfnKuV0H5jQ"
+    },
+    {
+      "id":12,
+      "name_skin":"miki simpsons 2",
+      "skin_url":"https://lh3.googleusercontent.com/tjeIUy0GJtyQ8GivLVehnQjUuMvlYYm2_QYgeGnMaWRD4QKdypNj67sEQlzaRaR5aNhq8vzlzDa2QQ9KO7oH4byFnUIf1T9nLg",
+      "view_skin":"https://lh3.googleusercontent.com/9-5kE8bdLJ9w6pwVtP8QVx_sHQdU9VEg7eUl_sjUMsVuROnhSnGt37VZ05YtbaQk8S7_a7z6qhKD0eRoW7TiBL0lRtDzRUlGmw"
+    },
+    {
+      "id":13,
+      "name_skin":"Eren Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/VbatwNYxRD4ggqjY0o2oZWt97C_x-bzNk3mt6IT0522elyx4QgbrFGn6Bjgh6Xn_uEKpUSgMsJi6wQUyAazJnh1qhEcluu3Thh0",
+      "view_skin":"https://lh3.googleusercontent.com/O00czLGHY1b6y8W3t0ZOhrQZSPGH144bbIXywTCK1xhdYThBXa0s0wbpsp0hxYw-bI2Fj--m04gJLtQvSjdfgmoHsa4zXZWvD5Q"
+    },
+    {
+      "id":14,
+      "name_skin":"Simpsons",
+      "skin_url":"https://lh3.googleusercontent.com/u6tvtcsY8-K131RKscyu5Re7fPCsFXk-fELYqMiubDJGUikoHQTarFl7Yith6B-vg_cR8-jqKcGpB5oQRMG9zKQWzy78CNRsAwY",
+      "view_skin":"https://lh3.googleusercontent.com/gpVg90jvqSKAOVvZBYBIlQ50LDZmczK5D0x81RB9330g8dSi4JVihe4735_K3rS1qfFVdjrsJ0AmqAIEOqSBzBqrTA_s3WNn8g"
+    },
+    {
+      "id":15,
+      "name_skin":"Simpson",
+      "skin_url":"https://lh3.googleusercontent.com/x2XIWcUiIhrWpJkfaVx-iULGnRK6gX1gqnHBRFFgqtdLu9iz7DrzGRMeNUBgvo_KjcC9D6q9fHog14Ol38xYBnE",
+      "view_skin":"https://lh3.googleusercontent.com/GwVVQUnY1Bly9jgSi8VyO6nJebzj86xhbJJ1IG1s2mp9GHbDDM9ODqpRDPwCbg0MY6jLjXNTNNEaamdYvJOv"
+    },
+    {
+      "id":16,
+      "name_skin":"simpsons skin",
+      "skin_url":"https://lh3.googleusercontent.com/0icu95wjcoX6jX7oa727N11TG_t93Rr10DntI0prRxTeNZVVbT1bz8ENuEq8OS0_oPO7wD3hiioNrM1Njl6DsGG4ShUGAFJDn90",
+      "view_skin":"https://lh3.googleusercontent.com/flOU-TTPRp2HlgrcXHCLjSkY9iYb82Jy6YypxVcD5FxjYKl5Cocwf50lRu1Rmf46PQxgDn1JTSsyuxL-zdRKZjKbMFvdDDtiOhmm"
+    }
+  ],
+  "Addons":
+  [
+	{
+      "id":1,
+      "name_add":"World Animals",
+      "add_url":"https://archive.org/download/animals_202303/Addon/Animals.zip",
+      "addB_url":"https://archive.org/download/animals_202303/Addon/WorldAnimals%20BehaviorPack.mcpack",
+      "addR_url":"https://archive.org/download/animals_202303/Addon/WorldAnimals%20TexturePack.mcpack",
+      "view_add":"https://archive.org/download/animals_202303/Addon/1.png",
+      "des_add":"https://moldymods.github.io/Description/Animals.html"
+    },
+	{
+      "id":2,
+      "name_add":"Zoo Craft",
+      "add_url":"https://archive.org/download/zoo-craft/zoo%20craft/zoo-craft.zip",
+      "addB_url":"https://archive.org/download/zoo-craft/zoo%20craft/ZooCraftBehavior/",
+      "addR_url":"https://archive.org/download/zoo-craft/zoo%20craft/ZooCraftResource/",
+      "view_add":"https://archive.org/download/zoo-craft/zoo%20craft/icon.jpg",
+      "des_add":"https://moldymods.github.io/Description/ZooCraft.html"
+    },
+	{
+      "id":3,
+      "name_add":"Animals Mod",
+      "add_url":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/5animals.zip",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/5animals-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/5animals-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/ic.png",
+      "des_add":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/ic.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Minecraft Wild Survival World",
+      "map_url":"https://download2286.mediafire.com/y65prmp3as7gs_k4v_n1za2mDrHGwolazl6cdPhnu28HBOMxH_PdXVHkm0ZAcrgpH2suypzxarBFWpzV1sgFBb9ZuCIalw/qorvf0ni3gmbj18/Wild+Survival+World.mcworld",
+      "view_map":"https://api.mcpedl.com/storage/submissions/94390/100/20221101010112_1-520x245.png",
+      "des_map":"https://moldymods.github.io/Description/MapWildsurvivalworld.html"
+    }
+  ]
+}
