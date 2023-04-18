@@ -669,6 +669,15 @@
       "addR_url":"https://archive.org/download/golems_202304/Golem%2B/R.mcpack",
       "view_add":"https://archive.org/download/golems_202304/Golem%2B/packicon_1-520x245.png",
       "des_add":"https://moldymods.github.io/Description/Golem.html"
+    },
+	{
+      "id":4,
+      "name_add":"Golem Mobs Addon",
+      "add_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/New%20folder%20%282%29.zip",
+      "addB_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/Golem%20Mobs%20BP.mcpack",
+      "addR_url":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/Golem%20Mobs%20RP.mcpack",
+      "view_add":"https://archive.org/download/new-folder-2_20230329/Golem%20Mobs%20Addon/golem-mobs_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/GolemMobsAddon.html"
     }
   ],
   "Maps":
