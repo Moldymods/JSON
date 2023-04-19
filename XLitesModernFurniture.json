@@ -1,0 +1,211 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"https://play-lh.googleusercontent.com/IOv7v_6jyYq9RDkQeJyIwlj3DuDQnk3Yewo9ZoRRoVOKzYYZpkj6EG96VKzAUUaQEeg=h500",
+      "link":"https://play.google.com/store/apps/developer?id=Parmotion+apps"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/NaM4ppcZsKp_NERoaQmm_qTXYRdBBgWPHduxiOaWgCegoyT4U-sLebakWJSnf5xGCfQ7jT_h0gl3EMUKF81U",
+      "view_skin":"https://lh3.googleusercontent.com/FrppXX2yseNyjw5EIwdrS6Zzn66PZ3z2H8Mxc5ygH5Tj7W-5yNEU8V-UrJkqCgWNX-7ntSM_lboOTeDRcjMPN2g"
+    },
+    {
+      "id":2,
+      "name_skin":"Gumball Watterson",
+      "skin_url":"https://lh3.googleusercontent.com/daOI-9kQiNUGrC7d6SnjShXiMFTDkafEWyUFRNIahjmKdViEzRpzPl6ImezTwuMRxwmEBMCvlEUWIGe-uGiDVeU",
+      "view_skin":"https://lh3.googleusercontent.com/f39syDuI6yUtavz7mUY0I8p8EOeJbA9H4-q3YrNQqIuH5oDy4uh9vNnXWPnZvjKHW-hY6irTkdtYTUBW9ibadA"
+    },
+    {
+      "id":3,
+      "name_skin":"GUMBALL",
+      "skin_url":"https://lh3.googleusercontent.com/Ky5c8wJpXjaLrWc8nLRBiYItxDrtupJlE7yvQ90_3digsuZwApqG3N1bzTBEWfrNztXK3xn33EY9mALTkKZT",
+      "view_skin":"https://lh3.googleusercontent.com/Ta5OZEU3Inv3CI0PI2lcmsHirU79C2QS_UxG4pzvoFKb-OIHIl5dDbx-vBAhR8a7yabpuXkSM_33m_OgszJ2"
+    },
+    {
+      "id":4,
+      "name_skin":"GUMBALL",
+      "skin_url":"https://lh3.googleusercontent.com/5swsMC4XHhfkh5Z13zBibgaxUnob1ir9fXkH0Nf9tK4vjB8ccCSwh_-syiYugIPGeK_Gm75gX9o7YJRapBbY",
+      "view_skin":"https://lh3.googleusercontent.com/RxHBYsay7JCAnZL54EcKzpA6lki-nvRgOiS_pQGHXptLVRruYDOVyqqKyDWHMZfYqALdsQsY_o9I--0yLIPZ"
+    },
+    {
+      "id":5,
+      "name_skin":"Gumball",
+      "skin_url":"https://lh3.googleusercontent.com/fm01jXArmi79uSTTsgHQPblQSYlzIhWUbGZbi6wpo-0ThbMvtbPX2KXf4bK_KXL6s4UL5D1szOoHnZPGJB_Kzw",
+      "view_skin":"https://lh3.googleusercontent.com/8jV16HTosaOtyPBEYUVkuupMT27VySvFzlruBVaOGxGAN2jsalGVv7N4sOl9SFYYK-n73z3nJkpWVULlUReiZg"
+    },
+    {
+      "id":6,
+      "name_skin":"Gumball fila",
+      "skin_url":"https://lh3.googleusercontent.com/wt7mWvq5grsZ5vJX85wvTUwn-J45H9pf1Vwr22S8keTaKXeqB53LJcaPtU3fpcK-7tNA4nhsmzBhvvH8kkLzBdk",
+      "view_skin":"https://lh3.googleusercontent.com/_HaB-WzmnINhWXgW3ywaSqgeo6c3aBQPsKvzFWgR44WnU_dgjwc0u39NXiCNOITJ6m4p1FriqNnU6CW6LvMvu3g"
+    },
+    {
+      "id":7,
+      "name_skin":"Gumball",
+      "skin_url":"https://lh3.googleusercontent.com/fqd8UA-vJ_AOjBCRlqbpoqoA920qinie-m7IyliGMwwQfiftdVR2wsbaAsM2OF-L_d55NFjLxwQ-BGmFTQDu7Q",
+      "view_skin":"https://lh3.googleusercontent.com/HuWavp4HFDlKMFogswZznUnuY-W8jhQBns8fsOVObCEds_tUv-daUmLF3Nrt8GeGbiv3VseBsk_GX2cKChjO"
+    },
+    {
+      "id":8,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/XT3gJqu2IPxDacBc32EpAdDhzBGwCqlAahS8MHiZpoqq7YHjQguz1pzqd_OFLWeFnB3LUKcUBDeaUOVImFrMQA",
+      "view_skin":"https://lh3.googleusercontent.com/GGBf8yPrW3o0OxlTazDgd6JKLTTmMIeaQC-Zpfyq25307LeBOLXMW0v7q8fCdCes5e5Jud-VZzWGet__3w7T"
+    },
+    {
+      "id":9,
+      "name_skin":"the correct gumball",
+      "skin_url":"https://lh3.googleusercontent.com/NjGdOivmefrcb1mEHXCLEtUo1EwyQlzdCGL5IGK6uHzbKm3R_wSGw4tQU66SnQs8SFqsS5fhoFVYAyLF2IPnzitrEisN6-U40MU",
+      "view_skin":"https://lh3.googleusercontent.com/8VpNRewZo1YwYg_A7JLaR2Yi-lBPJ3iX-j3y-1XdQdjEATUZ9fWHZ-YeaDmuxivZr_cB6x35ErlVYCB9KAsogL4dwN67uAWZNJQ"
+    },
+    {
+      "id":10,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/7SPK923RI5v5J3zEUaFFm-j-1HWFDK_r7o4umMuWtfyInDnY4-IoLxa5JXHRx0042FcA0FFBw-1TRTyJpxyE",
+      "view_skin":"https://lh3.googleusercontent.com/KxCa_fJdEtk7DDNAUsSi-Xt2nQqjY-_S6Af7dRrPH8nWt0x8LZn5B90DI043FrO50Wd7ddI6_K_5ZRZnFobW7Mo"
+    },
+    {
+      "id":11,
+      "name_skin":"Gumball hoodie",
+      "skin_url":"https://lh3.googleusercontent.com/znUm4llr96aFB2bm-AytG4Nc0h3voZ85nV-L0metLwmFxbtBDTlHDtboY6gemyEJWAcLouyTAlCQjx0kSD8XKzgeLs7oO68Pcgo",
+      "view_skin":"https://lh3.googleusercontent.com/0nKPx5fLXAqqYjum0jbxgfXN_cJIAnUY_KiUN0vvAIViDUJ9X_wFX7d5C7rc1qp5ouZd_uCxMkUT6gxtfNtbcdtpQDnltutP9VA"
+    },
+    {
+      "id":12,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/QBlIgCuc2RXVW3c-ZxDLSMzwYesvvvMZ2kW8c58z6Vq8-EBTI5hoiEHetSrTUnoqW8-p73CxVxafdqsy_jjiZI0QDC8Jc9gXqA",
+      "view_skin":"https://lh3.googleusercontent.com/NAXi4IDg8Gh6npeTQ4b264VqXR5PKIrUTID46DZgVe1GURD6XYUEZhTfVxDH36mLdbmv5r-jrN7EOwBg9QjfFBbF98WgHbnqQ5A"
+    },
+    {
+      "id":13,
+      "name_skin":"Gumball",
+      "skin_url":"https://lh3.googleusercontent.com/IsHQ8mplU5ej3gZ1hwV5I8HP9o9iqwjAOS94iyuChKm7ZM2inRQhZR5YEoaD_f8_MLXGQBjl7MWy2RPYTZDv",
+      "view_skin":"https://lh3.googleusercontent.com/PaPBaV1LEV0AwGQIMHic6mWkDKS0uQlKwHgzK9PLeIMXXuZ0EJvK-HsydtyvUFt9sAdNwqwGZuWKG8bJCSPy"
+    },
+    {
+      "id":14,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/UVnibs1v20aIsgGDVNwA7fQiecaB2TnebROvLhxV-CEM5ceAbNFSSfyGhwxCmhMRZGqI0_NgqwBJdxq8XwKweg",
+      "view_skin":"https://lh3.googleusercontent.com/l3qKPJb-WXmsn9-gxUbqI-9lsLEFiaOhSpUh-AuHwOroWuXcr8BmzieX109Da5gl-8gRh_i6AJ0rRtX_B8VKEg"
+    },
+    {
+      "id":15,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/bzNomcZW6Ualk0QhYi8F2XkR0mgvMN1991ZNkL0QRPPO_yce1t1KtY5vw9O097dBt-dOBJYjR44p1UNgGN0Z",
+      "view_skin":"https://lh3.googleusercontent.com/ee42_wHhAUwLqZHQvafqzRXeVQmunkI58PD0_sZBKGiU11jjlQyLT4T2mmxvXHNLsvmQ-jR-I-dcM8Cw0-U-V4U"
+    },
+    {
+      "id":16,
+      "name_skin":"World Of Gumball",
+      "skin_url":"https://lh3.googleusercontent.com/Ex-D-RMSIzXlBD2Ee2EstGvyOrEG7j7LwMBPIiy0TxfJY4TA5Ra0bVh8eYuH0KVG_oYYH9ywxv7pQbIUsfg-Jk4",
+      "view_skin":"https://lh3.googleusercontent.com/c2EOSCAhei8l0i3ifLzfk73R0g9O_d8GW_haqcbiyejiUWwuAaEwTDVcflWbFDNgWOt2V7GRoGmMQG_VgX0Kt80"
+    },
+    {
+      "id":17,
+      "name_skin":"gumball",
+      "skin_url":"https://lh3.googleusercontent.com/itmjhM82qOrsb36ORv7wUOmkJSGTGALZNsjTe5iatVDPnjj_M0saJ3USHwW-mb41Ggv-eXMArryrIldDx0HE",
+      "view_skin":"https://lh3.googleusercontent.com/Df82QlqihUNAr_BCEGNPkPZlGJq12yujsrQSGFCGbZP-mMjabyp95iJTIXCqe8hjIiuORxGKw7I8QMJVNTNO8A"
+    }
+  ],
+  "Addons":
+  [
+	{
+      "id":1,
+      "name_add":"Furnicraft",
+      "add_url":"https://archive.org/download/furnicraft_202303/Furnicraft/Furnicraft.zip",
+      "addB_url":"https://archive.org/download/furnicraft_202303/Furnicraft/FURNICRAFT%20v18.2%28behavior%29.mcpack",
+      "addR_url":"https://archive.org/download/furnicraft_202303/Furnicraft/FURNICRAFT%20v18.2%28resource%29.mcpack",
+      "view_add":"https://archive.org/download/furnicraft_202303/Furnicraft/1212.png",
+      "des_add":"https://moldymods.github.io/Description/Furnicraft.html"
+    },
+	{
+      "id":2,
+      "name_add":"XLites Modern Furniture",
+      "add_url":"https://archive.org/download/xlites-modern-furniture_202304/XLites%20Modern%20Furniture/XLites%20Modern%20Furniture.zip",
+      "addB_url":"https://archive.org/download/xlites-modern-furniture_202304/XLites%20Modern%20Furniture/XLites%20Modern%20Furniture%20BP.mcpack",
+      "addR_url":"https://archive.org/download/xlites-modern-furniture_202304/XLites%20Modern%20Furniture/XLites%20Modern%20Furniture%20RP.mcpack",
+      "view_add":"https://archive.org/download/xlites-modern-furniture_202304/XLites%20Modern%20Furniture/xmficonfin_1-520x245.png",
+      "des_add":"https://moldymods.github.io/Description/XLitesModernFurniture.html"
+    },
+	{
+      "id":3,
+      "name_add":"Furniture Mod",
+      "add_url":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/15furniture.zip",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/15furniture.mcaddon",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/15furniture.mcaddon",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/ic.png",
+      "des_add":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/ic.html"
+    },
+	{
+      "id":4,
+      "name_add":"X-ray Mod",
+      "add_url":"https://torirastudio.com/data/godev/asepudindev/mod/39x-ray/39x-ray.zip",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/39x-ray/39x-ray.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/39x-ray/39x-ray.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/39x-ray/ic.png",
+      "des_add":"https://torirastudio.com/data/godev/asepudindev/mod/39x-ray/ic.html"
+    },
+	{
+      "id":5,
+      "name_add":"Backpack Mod",
+      "add_url":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/8backpack.zip",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/8backpack.mcaddon",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/8backpack.mcaddon",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/ic.png",
+      "des_add":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/ic.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Modern Villa",
+      "map_url":"https://archive.org/download/47549fd-7d-174c-1e-7323b-937e-9c-107235/Modern%20villa/47549fd7d174c1e7323b937e9c107235.zip",
+      "view_map":"https://api.mcpedl.com/storage/submissions/99053/100/2b7a9bb384364848af425b883ff9c71e_1-520x245.png",
+      "des_map":"https://moldymods.github.io/Description/MapModernvilla.html"
+    },
+	{
+      "id":2,
+      "name_map":"Dream Maps",
+      "map_url":"https://archive.org/download/asepudindev/2dream.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/2dream.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/ic.html"
+    }
+  ]
+}
